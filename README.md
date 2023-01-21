@@ -1,5 +1,5 @@
 # Shop Project
-Research, craft, haggle and sell your items in this fantasy shop prototype. Play a demo here on {link}. Your customers are waiting!
+Research, craft, haggle and sell your items in this fantasy shop prototype. To play the demo, click [here](https://phixigames.itch.io/fantasy-shop-project). Your customers are waiting!
 
 ![shop6](https://user-images.githubusercontent.com/41077768/213849139-b785835e-e087-4fc6-8dcc-219f35d0f9ff.png)
 
