@@ -33,5 +33,6 @@ For tutorials and other dialogue used in the game
 ## Saving and Loading
 Quit the game and come back at the start of the day where you left it.
 
-# Misc
-All art assets are retrieved from the Unity Asset Store
+# Credits
+UI Icons: https://assetstore.unity.com/packages/2d/gui/icons/4000-fantasy-icons-163280
+Character and tile sprites: https://finalbossblues.com/timefantasy/
